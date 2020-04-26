@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\k0801\Desktop\MPEI-HomeWork\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\k0801\Desktop\MPEI-HomeWork\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\k0801\Desktop\MPEI-HomeWork\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,1): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\k0801\Desktop\MPEI-HomeWork\ConsoleApplication1\x64\Debug\433.exe
